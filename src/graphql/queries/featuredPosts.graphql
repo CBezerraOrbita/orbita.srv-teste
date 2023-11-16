@@ -1,0 +1,17 @@
+query FeaturedPost {
+  posts(where: { featuredPost: true }) {
+    author {
+      name
+      photo {
+        url
+      }
+    }
+    featuredImage {
+      url
+    }
+    title
+    slug
+    date
+    createdAt
+  }
+}

@@ -1,0 +1,8 @@
+query Comments($slug: String!) {
+  comments(where: { post: { slug: $slug } }) {
+    id
+    name
+    createdAt
+    comment
+  }
+}

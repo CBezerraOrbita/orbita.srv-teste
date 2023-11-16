@@ -1,0 +1,10 @@
+query PastEvents {
+  pastEvents {
+    name
+    description
+    dateEvent
+    imagesEvent {
+      url
+    }
+  }
+}

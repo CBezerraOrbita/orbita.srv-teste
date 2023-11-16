@@ -1,0 +1,7 @@
+query WorkWithUs {
+  workWithuses {
+    description
+    id
+    title
+  }
+}

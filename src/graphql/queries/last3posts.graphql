@@ -1,0 +1,11 @@
+query Last3Posts {
+  posts(orderBy: date_ASC, last: 3) {
+    id
+    title
+    featuredImage {
+      url
+    }
+    date
+    slug
+  }
+}

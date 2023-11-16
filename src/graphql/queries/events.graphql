@@ -1,0 +1,12 @@
+query Events {
+  events(orderBy: date_ASC) {
+    id
+    name
+    local
+    description
+    date
+    imageCover {
+      url
+    }
+  }
+}

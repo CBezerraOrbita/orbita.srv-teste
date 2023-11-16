@@ -1,70 +1,89 @@
-# Getting Started with Create React App
+<div align="center" id="top"> 
+  <img src="./src/assets/amazonia.png" alt="Amazonia Lab" />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+&#xa0;
 
-## Available Scripts
+  <!-- <a href="https://amazonialab.netlify.app">Demo</a> -->
+</div>
 
-In the project directory, you can run:
+<h1 align="center">Amazônia Lab</h1>
 
-### `npm start`
+<!-- <p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/OrbitaTec/Amazonia-lab?color=3F8016">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/OrbitaTec/Amazonia-lab?color=3F8016">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/OrbitaTec/Amazonia-lab?color=3F8016">
 
-### `npm test`
+  <img alt="Last-Commit" src="https://img.shields.io/github/last-commit/OrbitaTec/Amazonia-lab?color=3F8016">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+</p> -->
 
-### `npm run build`
+<h4 align="center">
+	🚧  Amazônia Lab 🚀 Under construction...  🚧
+</h4>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<hr>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/OrbitaTec" target="_blank">Author</a>
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br>
 
-### `npm run eject`
+## :dart: About
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Site institucional da Amazônia Lab.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## :sparkles: Features
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+:heavy_check_mark: Apresentação da Amazônia Lab;\
+:heavy_check_mark: Formulários de interação com clientes;\
+:heavy_check_mark: Contato;
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## :rocket: Technologies
 
-## Learn More
+The following tools were used in this project:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [React](https://pt-br.reactjs.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## :white_check_mark: Requirements
 
-### Code Splitting
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## :checkered_flag: Starting
 
-### Analyzing the Bundle Size
+```bash
+# Clone this project
+$ git clone https://github.com/OrbitaTec/Amazonia-lab
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# Access
+$ cd Amazonia-lab
 
-### Making a Progressive Web App
+# Install dependencies
+$ npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# Run the project
+$ npm run dev
 
-### Advanced Configuration
+# The server will initialize in the <http://localhost:3000>
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## :memo: License
 
-### Deployment
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Made with :heart: by <a href="https://github.com/OrbitaTec" target="_blank">Equipe Órbita Tecnologia</a>
 
-### `npm run build` fails to minify
+&#xa0;
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<a href="#top">Back to top</a>

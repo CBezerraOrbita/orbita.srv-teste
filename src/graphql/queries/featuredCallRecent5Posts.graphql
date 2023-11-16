@@ -1,0 +1,17 @@
+query FeaturedCallRecent5Posts {
+  posts(where: { featuredPost: true }, orderBy: date_ASC, last: 5) {
+    author {
+      name
+      photo {
+        url
+      }
+    }
+    featuredImage {
+      url
+    }
+    title
+    slug
+    date
+    createdAt
+  }
+}
