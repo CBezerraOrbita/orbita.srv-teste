@@ -1,12 +1,12 @@
 <div align="center" id="top"> 
-  <img src="./src/assets/amazonia.png" alt="Amazonia Lab" />
+  <img src="./src/assets/logo-1.svg" alt="Orbita Srv" />
 
 &#xa0;
 
   <!-- <a href="https://amazonialab.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Amazônia Lab</h1>
+<h1 align="center">Orbita Srv</h1>
 
 <!-- <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/OrbitaTec/Amazonia-lab?color=3F8016">
@@ -20,9 +20,9 @@
 </p> -->
 
 <h4 align="center">
-	🚧  Amazônia Lab 🚀 Under construction...  🚧
+	🚧  Orbita Srv 🚀 Under construction...  🚧
 </h4>
-
+<!-- 
 <hr>
 
 <p align="center">
@@ -86,4 +86,4 @@ Made with :heart: by <a href="https://github.com/OrbitaTec" target="_blank">Equi
 
 &#xa0;
 
-<a href="#top">Back to top</a>
+<a href="#top">Back to top</a> -->
